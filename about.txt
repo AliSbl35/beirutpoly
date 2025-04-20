@@ -1,1 +1,7 @@
-This is documentation about beirutpoly 
+# BeirutPoly – *The Game Where Beirut Is Your Playground!*
+
+Welcome to **BeirutPoly**, a vibrant twist on the classic Monopoly game, reimagined with the heartbeat of Beirut! From the bustling alleys of Hamra to the chic vibes of Gemmayzeh, and from the Corniche's sea breeze to the historic ruins of Downtown – own, trade, and build your way through one of the most iconic cities in the Middle East.
+
+Buy properties like **Mar Mikhael**, **Verdun**, and **Achrafieh**, invest in legendary Lebanese spots like **man’oushe stands** and **rooftop bars**, and navigate challenges like **traffic jams** or **electricity cuts** (yes, we had to keep it real). Collect rent, develop **souks** and **skyscrapers**, and avoid getting stuck in **Saraya** (Beirut’s version of jail)!
+
+With colorful references to local culture, landmarks, slang, and even a few inside jokes only a true Beiruti would understand, **BeirutPoly** is more than just a board game — it's a nostalgic love letter to the city's **chaos, charm, and charisma**.
